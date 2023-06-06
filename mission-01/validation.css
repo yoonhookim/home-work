@@ -1,0 +1,28 @@
+.description {
+    width: 300px;
+    height: 37px;
+    padding: 10px;
+    color : white;
+    background-color: grey;
+    margin: 10px auto;
+    text-align: left;
+    display: block;
+    margin: 20px;
+    border-radius: 20px;
+    cursor: pointer;
+}
+
+.description2 {
+    width: 300px;
+    height: 37px;
+    padding: 10px;
+    color : white;
+    background-color: grey;
+    margin: 10px auto;
+    text-align: left;
+    display: block;
+    margin: 20px;
+    border-radius: 20px;
+    cursor: pointer;
+}
+
