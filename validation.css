@@ -1,0 +1,36 @@
+.description {
+    width: 250px;
+    height: 37px;
+    border: 1px solid none;
+    border-radius: 30px;
+    background-color: grey;
+    margin-bottom: 10px;
+    text-align: center;
+    line-height: 37px;
+    display: block;
+    margin: 20px;    
+    cursor: pointer;
+    background-image: url(./../mission-01/validation_icon\ 2.png);
+    background-repeat: no-repeat;
+    background-position: 7%;
+}
+
+.description2 {
+    width: 250px;
+    height: 37px;
+    border: 1px solid none;
+    border-radius: 30px;
+    background-color: grey;
+    margin-bottom: 10px;
+    text-align: center;
+    line-height: 37px;
+    display: block;
+    margin: 20px;    
+    cursor: pointer;
+    background-image: url(./../mission-01/validation_icon\ 2.png);
+    background-repeat: no-repeat;
+    background-position: 7%;
+}
+
+
+

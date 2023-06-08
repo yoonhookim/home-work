@@ -1,0 +1,18 @@
+.web {
+    border: solid 1px lightgrey ;
+    border-width: 1px;
+    background-color: lightgrey;
+    border-radius: 10px;
+    width: 300px;
+    height: 300px;
+}
+
+.relate {
+    font-size: 20px;
+    font-weight: 700;
+}
+
+.explain {
+    color: royalblue;
+    font-weight: 700;
+}
