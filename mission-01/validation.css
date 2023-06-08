@@ -1,28 +1,36 @@
 .description {
-    width: 300px;
+    width: 250px;
     height: 37px;
-    padding: 10px;
+    border: 1px solid none;
+    border-radius: 30px;
     color : white;
     background-color: grey;
-    margin: 10px auto;
-    text-align: left;
+    margin-bottom: 10px;
+    text-align: center;
+    line-height: 37px;
     display: block;
-    margin: 20px;
-    border-radius: 20px;
+    margin: 20px;    
     cursor: pointer;
+    background-image: url(
+    background-repeat: no-repeat;
+    background-position: 7%;
 }
 
 .description2 {
-    width: 300px;
+    width: 250px;
     height: 37px;
-    padding: 10px;
+    border: 1px solid none;
+    border-radius: 30px;
     color : white;
     background-color: grey;
-    margin: 10px auto;
-    text-align: left;
+    margin-bottom: 10px;
+    text-align: center;
+    line-height: 37px;
     display: block;
-    margin: 20px;
-    border-radius: 20px;
+    margin: 20px;    
     cursor: pointer;
+    background-image: url(
+    background-repeat: no-repeat;
+    background-position: 7%;
 }
 
