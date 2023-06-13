@@ -1,0 +1,43 @@
+body {
+    margin: 100px;
+}
+
+#w3c {
+    text-align: left;
+    
+}
+
+.title {
+    color: orangered;    
+}
+
+.newsMain {
+    max-width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    grid-template-columns: repeat(12, 1fr);
+    grid-template-rows: auto;
+    grid-template-areas: 
+    "site site site site date date date date date date date date"
+    "site site site site site site site site site site site site"
+    "board board board board board board board board board board board board"
+}
+
+.site {
+    grid-area: site;
+    height: 30px;
+    font-weight: 700;
+}
+
+.date {
+    grid-area: date;
+    height: 40px;
+    font-weight: 500;
+}
+
+.board {
+    grid-area: board;
+    height: 200px;
+    font-weight: 500;
+}
+
