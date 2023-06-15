@@ -1,0 +1,57 @@
+body {
+    margin: 30px;
+}
+
+.gradient-effect{
+    width: 200px;
+    border: 1px solid #aaa;
+    border-radius: 5px;
+    background: linear-gradient(#ccc, #eee);
+}
+
+.spacing-sm {
+    padding: 5px;
+}
+
+.spacing-md {
+    padding: 10px;
+}
+
+.spacing-lg {
+    padding: 15px;
+}
+
+.popular-title {
+    margin: 0;
+    font-size: 18px;
+}
+
+.accent-primary-color {
+    color: orangered;
+}
+
+.popular-list {
+    margin: 10px 0 0 0;
+    padding-left: 0;
+    font-size: 15px;
+    list-style: none;
+}
+
+.popular-list a {
+    color: inherit;
+    text-decoration: none;
+    display: block;
+    padding: 0 10px 0 20px;
+    line-height: 25px;
+}
+
+.popular-more {
+    position: relative;
+    top: 0;
+    right: 0;
+    text-decoration: none;
+  }
+
+.sprite {
+    background: url(./../../webcafe-RWD/assets/rank.png) ;
+  }
